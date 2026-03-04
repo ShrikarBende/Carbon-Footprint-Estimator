@@ -110,4 +110,4 @@ Contributions are welcome! To get started:
 
 ---
 
-> *"The Earth does not belong to us; we belong to the Earth."* 🌎
+ *"The Earth does not belong to us; we belong to the Earth."* 🌎
