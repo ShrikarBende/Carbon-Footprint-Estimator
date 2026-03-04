@@ -1,6 +1,6 @@
 # 🌱 Carbon Footprint Estimator
 
-> An AI-powered platform to measure, analyze, and reduce your environmental impact using machine learning.
+ An AI-powered platform to measure, analyze, and reduce your environmental impact using machine learning.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
